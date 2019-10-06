@@ -1,2 +1,2 @@
-# lana
-studing perpose
+# first homework
+
