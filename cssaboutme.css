@@ -1,0 +1,65 @@
+body{
+  background-color: grey;
+}
+.moods a:link{
+color:red;
+text-decoration: none;
+
+}
+
+b{
+  color:yellow;
+}
+h1{
+  color:#1ECFCC;
+  font-size:30pt;
+}
+.header{
+  font-style:oblique;
+  font-size:50pt;
+  color: #1ECFCC;
+}
+.fontstyle {
+  color:  white;
+  font-size:20pt;
+  text-align: left;
+}
+.fontsmall{
+  font-size:10pt;
+  color:white;
+  font-style:italic;
+  font-family:cursive;
+
+}
+.moodss img{
+  width:200px;
+  height:150px;
+}
+ .moods a:hover{
+  color:white;
+  background-color:green;
+  text-decoration: underline;
+}
+.list li{
+  list-style-type:none;
+  margin:0;
+  padding: 0;
+  font-size:15pt;
+}
+.liststylecolor li{
+  color:yellow;
+}
+span {
+  font-size:50pt;
+  color:#1ECFCC;
+  font-family: algerian, courier;
+  font-weight:bold;
+ line-height: 80%;
+}
+.span2{
+  font-size:15pt;
+  color:red;
+    font-weight:bold;
+  font-family: algerian, courier;
+ line-height: 80%;
+}
